@@ -9,3 +9,8 @@ function sayHello(){
 function isAbove18(){
     return age >= 18
 }
+
+
+function newFeatureAdd(){
+    console.log("new feature added")
+}
