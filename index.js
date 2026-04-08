@@ -14,3 +14,10 @@ function isAbove18(){
 function newFeatureAdd(){
     console.log("new feature added")
 }
+
+
+function add(a,b){
+    console.log(a+b)
+}
+
+add(9,3)
