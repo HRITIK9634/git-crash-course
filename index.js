@@ -1,5 +1,5 @@
 const age = 23;
-const name1 = "Hritik Saini"
+const name1 = "Hritik Saini new"
 const dob = "04/01/2002"
 
 function sayHello(){
@@ -26,6 +26,12 @@ function newFeatureAddC(){
 }
 
 function newFeatureAddC(){
+    console.log("new D feature added")
+    console.log("new D feature added")
+    console.log("new D feature added")
+    console.log("new D feature added")
+    console.log("new D feature added")
+    console.log("new D feature added")
     console.log("new D feature added")
 }
 
