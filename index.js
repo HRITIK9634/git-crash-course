@@ -25,6 +25,10 @@ function newFeatureAddC(){
     console.log("new c feature added")
 }
 
+function newFeatureAddC(){
+    console.log("new D feature added")
+}
+
 
 
 function add(a,b){
