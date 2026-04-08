@@ -16,6 +16,12 @@ function newFeatureAdd(){
 }
 
 
+
+function newFeatureAddB(){
+    console.log("new B feature added")
+}
+
+
 function add(a,b){
     console.log(a+b)
 }
